@@ -6,6 +6,6 @@ Here are other links of interest
 
 * [Mu Editor](https://codewith.mu/en/)
 * [Adafruit's Guide to CircuitPython on the Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview)
-* [Wokwi Pico Simulator](https://wokwi.com/projects/new/micropython-pi-pico?template=micropython-pi-pico)
+* [Wokwi Pico Simulator](https://wokwi.com/projects/new/circuitpython-pi-pico)
 
 Enjpy 🎉 If you have any questions, please reach out to thomas@orcsgirls.org.
