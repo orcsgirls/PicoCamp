@@ -8,4 +8,9 @@ Here are other links of interest
 * [Adafruit's Guide to CircuitPython on the Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview)
 * [Wokwi Pico Simulator](https://wokwi.com/projects/new/circuitpython-pi-pico)
 
+Additional information
+
+* [Driver for LCD Display](https://github.com/robjwells/circuitpython-waveshare-1602)
+* [Driver for Temperature/Humidity Sensor](https://learn.adafruit.com/adafruit-aht20/python-circuitpython)
+
 Enjpy 🎉 If you have any questions, please reach out to thomas@orcsgirls.org.
