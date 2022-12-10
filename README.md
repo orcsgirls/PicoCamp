@@ -6,7 +6,7 @@ Here are other links of interest
 
 * [Mu Editor](https://codewith.mu/en/)
 * [Adafruit's Guide to CircuitPython on the Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview)
-* [Wokwi Pico Simulator](https://wokwi.com/projects/new/circuitpython-pi-pico)
+* [Wokwi Pico Simulator](https://wokwi.com/projects/new/circuitpython-pi-pico) - [Blink LED Example](https://wokwi.com/projects/350444482715451988)
 
 Additional information
 
